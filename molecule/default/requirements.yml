@@ -1,0 +1,7 @@
+---
+- src: nholuong.repo-epel
+- src: nholuong.git
+- src: nholuong.ansible
+- src: nholuong.docker
+- src: nholuong.pip
+- src: nholuong.nodejs
